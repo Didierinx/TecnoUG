@@ -154,6 +154,14 @@
     }
 }
 
+.logo-tecno {
+    width: 200px; /* Cambia este tamaño según necesites */
+    height: auto;
+    margin-right: 8px; /* Espaciado entre el logo y el texto */
+    object-fit: contain;
+}
+
+
 /* SECCION QUIENES SOMOS */
 #quienes-somos {
     background: linear-gradient(135deg, #1a1a1a, #333333); /* Gradiente oscuro */
